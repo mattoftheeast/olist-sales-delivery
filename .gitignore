@@ -1,0 +1,4 @@
+data/raw/
+*.duckdb
+*.wal
+.DS_Store
